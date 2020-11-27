@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "391116966807",
+    "firebase_url": "https://doe-morning.firebaseio.com",
+    "project_id": "doe-morning",
+    "storage_bucket": "doe-morning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391116966807:android:e93f9c4a6e46b3f3afd2d2",
+        "android_client_info": {
+          "package_name": "com.example.doemoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391116966807-jjmngpcrfjjhn3eg32sc81q7lpulbsf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0_U3_AkEhkzw9al07wT04L1oV-R7mbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391116966807-jjmngpcrfjjhn3eg32sc81q7lpulbsf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
